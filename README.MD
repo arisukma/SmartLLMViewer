@@ -1,3 +1,7 @@
+Inteliigent Document Viewer using LLM
+
+Our directory 
+
 # Directory structure:
 # document_qa/
 # ├── app/
